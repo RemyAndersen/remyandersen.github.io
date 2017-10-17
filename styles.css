@@ -1,0 +1,33 @@
+h1 {color: solidblack; font-size: 250%; font-weight: bold; }
+h2 {font-size 150%; font-style: italic; color: black; }
+
+body {
+	background: lightpink;
+	color: solidblack;
+	font-size: 20pt;
+	font-family: 'Courier New', serif;
+}
+
+
+nav li {
+	border: 2px solid black; 
+	display: inline-block 
+}
+
+H1 {border-left: 10px solid darkgrey; } 
+
+main {
+	border-right: 2px solid lightpink; 
+	padding: 30px;
+	margin: 5px;
+	background: white 
+}
+
+a {
+	color: darkblue;
+text-decoration: none }
+
+
+a:hover {color: darkpink}
+
+
